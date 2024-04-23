@@ -1,1 +1,1 @@
-# CSE424-Atahar
+The course name is Pattern Recognition. The project is about EPL Match winning prediction. Our model will predict if a team will win or lose or draw a match depending on the previous statistics of the team. The statistics will be found from the dataset that we got from Github.
